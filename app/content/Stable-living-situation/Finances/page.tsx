@@ -45,9 +45,9 @@ const Finances = () => {
         Savings IN EGP: 1095/6.300=173,300 <br />
       </li>
       <li>
-        <strong>Spending:</strong>
+        <strong>Spending:</strong><br />
         50,000EGP to my bride <br />
-        60,000EGP to savings for my vication <br />
+        60,000EGP to savings for my vacation <br />
         
       </li>
     </ul>
