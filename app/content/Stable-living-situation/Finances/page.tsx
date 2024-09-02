@@ -29,6 +29,30 @@ const Finances = () => {
         <strong>Sugessted on your current year 2024.</strong>
       </li>
     </ul>
+
+
+    <h2>2ns Financial Goal: Plan Next 6 Month salary</h2>
+
+    <ul>
+      <li>
+        <strong>1st Month</strong>
+        Salary:400KD <br />
+        Rent:30KD  <br />
+        
+
+      </li>
+      <li>
+        2nd way to achieve this is to save 600K EGP equal to 3900KD and make small certifcate.<br />
+        To save nearly 10K EGP a month which should take about 16 Months.<br />
+        <strong>Sugessted on your Second & third year of marriage.</strong>
+      </li>
+      <li>
+        3rd Way is to create a channel on youtube &amp; tiktok and teach Programming &amp; perhaps Patreon<br />
+        During these3 years perhaps i can collect 250USD monthly which should achieve the goal<br />
+        with the possibilty of increasing money and happiness together.. and consistantly<br />
+        <strong>Sugessted on your current year 2024.</strong>
+      </li>
+    </ul>
     </>
   )
 }
