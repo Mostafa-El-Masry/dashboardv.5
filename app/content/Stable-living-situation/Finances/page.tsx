@@ -39,7 +39,11 @@ const Finances = () => {
         Salary:400KD <br />
         Rent:30KD  <br />
         INTERNET: 8+14=22KD <br />
-        
+        TRANSPORTATION: 15KD <br />
+        FOOD: 1.5*30=45+15=60KD <br />
+        sAVINGS IN KD: 400-30-22-15-60=273KD <br />
+        SAVINGS IN EGP: 273/6.300=43300 <br />
+
 
 
       </li>
