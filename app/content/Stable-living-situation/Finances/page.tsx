@@ -35,10 +35,12 @@ const Finances = () => {
 
     <ul>
       <li>
-        <strong>1st Month</strong>
+        <strong>1st Month:</strong> <br />
         Salary:400KD <br />
         Rent:30KD  <br />
+        INTERNET: 8+14=22KD <br />
         
+
 
       </li>
       <li>
