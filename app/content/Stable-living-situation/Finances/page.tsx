@@ -35,28 +35,17 @@ const Finances = () => {
 
     <ul>
       <li>
-        <strong>1st Month:</strong> <br />
+        <strong>September 2024 - December 2024:</strong> <br />
         Salary:400KD <br />
         Rent:30KD  <br />
         Internet: 8+14=22KD <br />
         Transportation: 15KD <br />
         Food: 1.5*30=45+15=60KD <br />
-        Savings IN KD: 400-30-22-15-60=273KD <br />
-        Savings IN EGP: 273/6.300=43300 <br />
-
-
-
+        Savings IN KD: 400-30-22-15-60=273 * 4 = 1095kd <br />
+        Savings IN EGP: 1095/6.300=173,300 <br />
       </li>
       <li>
-        2nd way to achieve this is to save 600K EGP equal to 3900KD and make small certifcate.<br />
-        To save nearly 10K EGP a month which should take about 16 Months.<br />
         <strong>Sugessted on your Second & third year of marriage.</strong>
-      </li>
-      <li>
-        3rd Way is to create a channel on youtube &amp; tiktok and teach Programming &amp; perhaps Patreon<br />
-        During these3 years perhaps i can collect 250USD monthly which should achieve the goal<br />
-        with the possibilty of increasing money and happiness together.. and consistantly<br />
-        <strong>Sugessted on your current year 2024.</strong>
       </li>
     </ul>
     </>
