@@ -9,6 +9,10 @@ const DailyRoutine = () => {
         <Link className="Link" href="/">Home</Link>
       </div>
 
+      <div className="flex justify-evenly">
+        <Link className="Link" href="./DailyRoutine/Calendix">Calendix</Link>
+      </div>
+
       <ul>
       <li>1 - Wake Up at 7.50 A.M</li>
         <li>2 - Go To Work at 9.00 A.M</li>
