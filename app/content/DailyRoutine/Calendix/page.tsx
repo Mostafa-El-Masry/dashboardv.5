@@ -4,17 +4,17 @@ import React from "react";
 const Calendix = () => {
   return (
     <main className="container">
-      <header className="flex gap-6 justify-between p-4">
-        <div className="flex gap-6 justify-between">
-          <h1>
+      <header className="flex gap-6 justify-between p-4 text-gray-600 font-normal" >
+        <div className="flex gap-6 justify-between items-end">
+          <p className="text-blue-600 font-bold text-3xl">
             <Link href="/content/DailyRoutine/Calendix">Calendix</Link>
-          </h1>
-          <nav className="flex gap-6">
+          </p>
+          <nav className="flex gap-4">
             <Link href="">Features</Link>
             <Link href="">About</Link>
           </nav>
         </div>
-        <nav className="flex gap-6">
+        <nav className="flex gap-4 items-end">
           <Link href="">Sign In</Link>
           <Link href="">Get Started</Link>
         </nav>
@@ -27,7 +27,7 @@ const Calendix = () => {
       </div>
 
 
-      <div>
+      {/* <div>
       <iframe className="p-12" width="1280" height="720" src="https://spankbang.com/9jqx7/embed/"  allowFullScreen></iframe>
       </div>
 
@@ -37,7 +37,7 @@ const Calendix = () => {
 
       <div>
       <iframe className="p-12" width="1280" height="720" src="https://www.xvideos.com/embedframe/uekdbpkf98d" allowFullScreen></iframe>
-      </div>
+      </div> */}
     </main>
   );
 };
