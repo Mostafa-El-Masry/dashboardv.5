@@ -7,9 +7,6 @@ const DailyRoutine = () => {
       <h1>Daily Routine</h1>
       <div className="flex justify-evenly">
         <Link className="Link" href="/">Home</Link>
-      </div>
-
-      <div className="flex justify-evenly">
         <Link className="Link" href="./DailyRoutine/Calendix">Calendix</Link>
       </div>
 
