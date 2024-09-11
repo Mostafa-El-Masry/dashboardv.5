@@ -3,11 +3,11 @@ import React from "react";
 const Apollo = () => {
   return (
     <>
-      <main className="container justify-evenly w-full">
+      <main className="container justify-evenly w-full bg-blue-300">
         <iframe
-          className="p-12"
-          width="1920"
-          height="1080"
+          className="p-12 bg-blue-300"
+          width="1440"
+          height="900"
           src="https://www.eporner.com/embed/c2d8tOMqifu/"
           aria-controls="enable"
           allowFullScreen
