@@ -3,7 +3,7 @@ import React from "react";
 const Apollo = () => {
   return (
     <>
-      <main className="container">
+      <main className="container justify-evenly w-full">
         <iframe
           className="p-12"
           width="1920"
