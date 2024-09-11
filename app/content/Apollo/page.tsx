@@ -3,7 +3,7 @@ import React from "react";
 const Apollo = () => {
   return (
     <>
-      <main>
+      <main className="flex">
         <iframe
           className="p-12"
           width="1080"
