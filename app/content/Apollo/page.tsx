@@ -5,7 +5,7 @@ const Apollo = () => {
     <>
       <main className="container justify-evenly w-full bg-blue-300">
         <iframe
-          className="p-12 bg-blue-300"
+          className="m-auto bg-blue-300"
           width="1600"
           height="900"
           src="https://www.eporner.com/embed/c2d8tOMqifu/"
