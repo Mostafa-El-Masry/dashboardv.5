@@ -6,29 +6,29 @@ const Apollo = () => {
       <div>
         <iframe
           className="p-12"
-          width="1280"
-          height="720"
+          width="1920"
+          height="1080"
           src="https://www.eporner.com/embed/eVgWdbSUufy/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="480"
+          height="1080"
           src="https://www.eporner.com/embed/c2d8tOMqifu/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="480"
+          height="1080"
           src="https://www.eporner.com/embed/FdxTBZjCn2p/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/AvLi5e5Pa90/"
           allowFullScreen
         ></iframe>
@@ -42,14 +42,14 @@ const Apollo = () => {
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/BN00h9irndl/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/jXQtbVUr4DM/"
           allowFullScreen
         ></iframe>
@@ -70,42 +70,42 @@ const Apollo = () => {
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/8A7gz3I4Rwt/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/4OP7OA8SjUi/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/r4pkcu9wRcB/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="480"
+          height="1080"
           src="https://www.eporner.com/embed/nx8mVIlSbLY/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/KOO4smnHAuI/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="380"
+          height="1080"
           src="https://www.eporner.com/embed/VvptCiEy0a7/"
           allowFullScreen
         ></iframe>
@@ -119,14 +119,14 @@ const Apollo = () => {
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/OGC0N9sLq0F/"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
           width="1920"
-          height="780"
+          height="1080"
           src="https://www.eporner.com/embed/ZQRnBv8J4dD/"
           allowFullScreen
         ></iframe>
