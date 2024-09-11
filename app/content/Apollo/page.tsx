@@ -8,14 +8,6 @@ const Apollo = () => {
           className="p-12"
           width="1920"
           height="1080"
-          src="https://www.eporner.com/embed/eVgWdbSUufy/"
-          aria-controls="enable"
-          allowFullScreen
-        ></iframe>
-        <iframe
-          className="p-12"
-          width="1920"
-          height="1080"
           src="https://www.eporner.com/embed/c2d8tOMqifu/"
           aria-controls="enable"
           allowFullScreen
