@@ -14,24 +14,24 @@ const Apollo = () => {
         ></iframe>
         <iframe
           className="p-12"
-          width="1920"
-          height="1080"
+          width="1600"
+          height="900"
           src="https://www.eporner.com/embed/FdxTBZjCn2p/"
           aria-controls="enable"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
-          width="1920"
-          height="1080"
+          width="1280"
+          height="720"
           src="https://www.eporner.com/embed/AvLi5e5Pa90/"
           aria-controls="enable"
           allowFullScreen
         ></iframe>
         <iframe
           className="p-12"
-          width="1920"
-          height="1080"
+          width="1366"
+          height="768"
           src="https://www.eporner.com/embed/zodCASZYukW/"
           aria-controls="enable"
           allowFullScreen
