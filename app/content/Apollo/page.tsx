@@ -5,7 +5,7 @@ const Apollo = () => {
     <>
       <main className="container justify-evenly w-full bg-blue-300">
         <iframe
-          width="full"
+          width="1500"
           height="900"
           src="https://www.eporner.com/embed/c2d8tOMqifu/"
           aria-controls="enable"
