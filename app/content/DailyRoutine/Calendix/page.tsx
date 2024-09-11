@@ -1,3 +1,4 @@
+import { CalendarDaysIcon } from 'lucide-react';
 import Link from "next/link";
 import React from "react";
 
@@ -9,7 +10,8 @@ const Calendix = () => {
           <div className="text-blue-600 font-bold text-3xl">
             <Link href="/">M</Link>
           </div>
-          <div className="text-cyan-700 font-bold text-3xl">   
+          <div className="flex  items-center text-cyan-700 font-bold text-3xl gap-2"> 
+          <CalendarDaysIcon size={26} strokeWidth={1.75}/>
             <Link href="/content/DailyRoutine/Calendix">Calendix</Link>
           </div>
           <nav className="flex gap-4">
