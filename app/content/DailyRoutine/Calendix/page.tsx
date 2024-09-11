@@ -32,17 +32,6 @@ const Calendix = () => {
       </div>
 
 
-      {/* <div>
-      <iframe className="p-12" width="1280" height="720" src="https://spankbang.com/9jqx7/embed/"  allowFullScreen></iframe>
-      </div>
-
-      <div>
-      <iframe className="p-12" width="1280" height="720" src="https://www.eporner.com/embed/eVgWdbSUufy/" allowFullScreen></iframe>
-      </div>
-
-      <div>
-      <iframe className="p-12" width="1280" height="720" src="https://www.xvideos.com/embedframe/uekdbpkf98d" allowFullScreen></iframe>
-      </div> */}
     </main>
   );
 };
