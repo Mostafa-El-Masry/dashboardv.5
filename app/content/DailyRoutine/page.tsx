@@ -4,6 +4,7 @@ import React from "react";
 const DailyRoutine = () => {
   return (
     <>
+    <main>
       <h1>Daily Routine</h1>
       <div className="flex justify-evenly">
         <Link className="Link" href="/">Home</Link>
@@ -20,6 +21,7 @@ const DailyRoutine = () => {
         <li>6- Work on 2015 Resolution</li>
         <li>6- Work on 2016 Resolution</li> 
       </ul>
+      </main>
     </>
   );
 };

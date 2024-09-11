@@ -1,16 +1,14 @@
 import type { Metadata } from "next";
 import { Noto_Sans } from "next/font/google";
-import "./globals.css";
-import Header from "./components/Header";
 
 const noto = Noto_Sans({subsets: ['latin'] , weight: ['200', '300', '400', '700']});
 
 export const metadata: Metadata = {
-  title: "MATRIX",
+  title: "CalendiX",
   description: "by Mostafa",
 };
 
-export default function RootLayout({
+export default function CalendixLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
@@ -18,9 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={noto.className}>
-        <Header />
         {children}
-
       </body>
     </html>
   );

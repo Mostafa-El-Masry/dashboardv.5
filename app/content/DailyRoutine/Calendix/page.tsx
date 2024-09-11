@@ -6,9 +6,12 @@ const Calendix = () => {
     <main className="container">
       <header className="flex gap-6 justify-between p-4 text-gray-600 font-normal" >
         <div className="flex gap-6 justify-between items-end">
-          <p className="text-blue-600 font-bold text-3xl">
+          <div className="text-blue-600 font-bold text-3xl">
+            <Link href="/">M</Link>
+          </div>
+          <div className="text-cyan-700 font-bold text-3xl">   
             <Link href="/content/DailyRoutine/Calendix">Calendix</Link>
-          </p>
+          </div>
           <nav className="flex gap-4">
             <Link href="">Features</Link>
             <Link href="">About</Link>
