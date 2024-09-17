@@ -6,8 +6,8 @@ const Apollo = () => {
       <main className="container justify-evenly w-full">
         <iframe
           className="py-2 mx-auto"
-          width="1500"
-          height="900"
+          width="90vw"
+          height="70vh"
           src="https://www.eporner.com/embed/c2d8tOMqifu/"
           aria-controls="enable"
           allowFullScreen
