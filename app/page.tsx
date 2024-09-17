@@ -4,7 +4,7 @@ import Header from "./components/Header";
 
 const HomePage = () => {
   return (
-    <main className="container">
+    <main className="container max-w-full">
       <div className="flex text-center h-screen capitalize ">
         <div className="flex flex-col justify-evenly w-full   ">
           <div className="Link justify-center self-center w-1/3 p-4 bg-gradient-to-r from-cyan-500 to-blue-500">
