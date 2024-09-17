@@ -11,7 +11,7 @@ const HomePage = () => {
           <div className="Link justify-center self-center w-1/3 p-4 bg-gradient-to-r from-cyan-500 to-blue-500">
             547 - A year (Vication) goals calender
           </div>
-          <div className="flex md:flex-row sm:flex-col xs:flex-col content-evenly justify-evenly">
+          <div className="flex md:flex-row max-sm:flex-col xs:flex-col content-evenly justify-evenly">
             <div className="Link">
               <Link href="./content/work"> Work Any Thing</Link>
             </div>
