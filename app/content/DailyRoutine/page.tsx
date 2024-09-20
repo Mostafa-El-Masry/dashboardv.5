@@ -1,3 +1,4 @@
+import Header from "@/app/components/Header";
 import Link from "next/link";
 import React from "react";
 
@@ -5,7 +6,8 @@ const DailyRoutine = () => {
   return (
     <>
     <main>
-      <h1>Daily Routine</h1>
+      <Header />
+      <h1 className="h1">Daily Routine</h1>
       <div className="flex justify-evenly">
         <Link className="Link" href="/">Home</Link>
         <Link className="Link" href="./DailyRoutine/Calendix">Calendix</Link>

@@ -3,7 +3,7 @@ import Link from "next/link";
 const HTML = () => {
   return (
     <>
-      <h1>HTML</h1>
+      <h1 className="h1">HTML</h1>
       <Link className='Link' href="/content/Next-JS">Back</Link>
       <p>The header Tag</p>
       <p>

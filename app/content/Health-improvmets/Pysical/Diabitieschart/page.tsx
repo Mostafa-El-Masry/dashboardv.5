@@ -3,7 +3,7 @@ import Link from 'next/link'
 const Diabitieschart = () => {
   return (
     <>
-    <h1>Diabities chart</h1>
+    <h1 className="h1">Diabities chart</h1>
     <Link className='Link' href="/content/Health-improvmets/Pysical">Back</Link>
     <h2>Create a chart for diabites Fasting &amp; 2h after each main meal</h2>
     <table className=''>

@@ -4,7 +4,7 @@ const MentalHealthPage
  = () => {
   return (
     <>
-    <h1>Mental Health</h1>
+    <h1 className="h1">Mental Health</h1>
     <h2>Create a zone:</h2>
     <p> where you can enter to asses or achieve something
         <br /> where you take some time off of every thing other than work and praying

@@ -4,7 +4,7 @@ import React from "react";
 const TextEditor = () => {
   return (
     <>
-      <h1>Text Editor</h1>
+      <h1 className="h1">Text Editor</h1>
       <Link className='Link' href="/content/Next-JS">Back</Link>
       <h2>Visual Studio Code</h2>
       <h3>Extensions</h3>

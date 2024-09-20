@@ -5,7 +5,7 @@ const Apollo = () => {
   return (
     <>
       <main className="container justify-evenly w-full">
-      <h1>Apollo</h1>
+      <h1 className="h1">Apollo</h1>
       <Link className='Link' href="/">Home</Link>
       <Link className='Link' href="/content/Apollo/Adultery">Adultery</Link>
 

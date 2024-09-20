@@ -4,7 +4,7 @@ import React from 'react'
 const Stablelivingsituation = () => {
   return (
     <>
-    <h1>Stable living situation</h1>
+    <h1 className="h1">Stable living situation</h1>
     <div
     className='flex justify-evenly'>
       <Link className='Link' href="/">Home</Link>

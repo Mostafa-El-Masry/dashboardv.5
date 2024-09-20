@@ -4,7 +4,7 @@ import React from 'react'
 const Finances = () => {
   return (
     <>
-    <h1>Finances</h1>
+    <h1 className="h1">Finances</h1>
 
     <Link className='Link' href="/content/Stable-living-situation">Back</Link>
 

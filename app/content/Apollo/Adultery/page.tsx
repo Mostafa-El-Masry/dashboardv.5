@@ -4,7 +4,7 @@ import React from "react";
 const Adultery = () => {
   return (
     <main className="container">
-    <h1>Adultery</h1>
+    <h1 className="h1">Adultery</h1>
     <Link className='Link' href="/">Home</Link>
     <Link className='Link' href="/content/Apollo/Adultery/BaileyBrooke">Bailey Brooke</Link>
 
