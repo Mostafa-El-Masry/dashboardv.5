@@ -20,8 +20,8 @@ const Head = () => {
           </nav>
         </div>
         <nav className="flex gap-4 items-end">
-          <Link href="">Sign In</Link>
-          <Link href="">Get Started</Link>
+          <Link className=" p-4" href="">Sign In</Link>
+          <Link className="bg-blue-600 p-4 rounded-3xl text-white" href="">Get Started</Link>
         </nav>
       </header>
         
