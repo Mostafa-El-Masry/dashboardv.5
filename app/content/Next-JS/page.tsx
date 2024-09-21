@@ -15,8 +15,7 @@ const NextJs = () => {
   return (
     <>
     <h1 className="h1">Next JS Mastering (dashboard)</h1>
-    <div
-    className='flex justify-evenly'>
+    <div className="flex justify-evenly absolute left-0 top-0">
       <Link className='Link' href="/">Home</Link>
       <Link className='Link' href="/content/Next-JS/HTML">HTML</Link>
       <Link className='Link' href="/content/Next-JS/CSS">CSS</Link>
